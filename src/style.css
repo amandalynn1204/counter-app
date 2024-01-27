@@ -61,3 +61,11 @@ footer a:hover {
   font-size: 45px;
   margin: 20px auto 40px;
 }
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
